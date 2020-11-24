@@ -1,0 +1,132 @@
+
+header {
+    background-color: #87C5BF;
+    padding: 5px;
+    height: 100px;
+  }
+  
+  header ul {
+    float: right;
+    color: white;
+  }
+  header li {
+    display: inline-block;
+    padding: 20px 20px;
+  }
+  
+  .heroImg: {
+    background-color: #EBEBEB;
+    padding: 100px 15px;
+  }
+  
+  .content {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #FFFFFF;
+    text-align: center;
+  }
+  
+  footer {
+    padding: 5px;
+    height: 50px;
+  }
+  footer ul {
+    padding-left: 5px;
+    color:#373738;
+  }
+  footer li {
+    display: inline-block;
+    padding: 20px 20px;
+  }
+     
+   
+   /*
+  
+  .left {
+    height: 500px;
+    float: left;
+    width: 30%;
+    background-color: lightblue;
+    text-align: center;
+  
+  }
+  
+  
+  .right {
+    height: 500px;
+    float: left;
+    width: 70%;
+    background-color: lightgreen;
+    text-align: center;
+  
+    .footer {
+     display: flex;
+      background-color: #373738;
+      padding: 20px;
+      justify-content: space-between;
+      align-items: center;
+      color: white;
+  
+   header {
+     background-color: #373738;
+     padding: 15px;
+   }
+   header ul {
+     float: right;
+     color: white;
+   }
+   header li {
+     display: inline-block;
+     padding: 0px 5px;
+   }
+   header p {
+     display: inline-block;
+   }
+   .heroImg {
+     background-color: #EBEBEB;
+     padding: 100px 15px;
+   }
+   .content {
+     max-width: 300px;
+     margin: 0 auto;
+     padding: 50px;
+     background-color: #FFFFFF;
+     text-align: center;
+   }
+   button {
+     padding: 15px;
+     background-color: #373738;
+     color: white;
+     font-size: 15px;
+     border-radius: 4px;
+   }
+   footer {
+     background-color: #373738;
+     padding: 5px;
+     color: white;
+   }
+   footer ul {
+     list-style: none;
+     padding-left: 5px;
+   }
+   footer li {
+     display: inline-block;
+     padding: 0px 7px;
+   }
+  
+   .right {
+    height: 600px;
+    width: 50%;
+    background-color: lightgreen;
+    image: center;
+  
+   }
+  
+  .left {
+    height: 600px;
+    width: 50%;
+    background-color: lightblue;
+    text-align: center;
+  */
+  
